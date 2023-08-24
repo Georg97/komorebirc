@@ -2,5 +2,7 @@
   configuration: !Horizontal 2 # max number of rows
 - column: Primary
   configuration: !WidthPercentage 50 # percentage of screen
+- column: Secondary
+  configuration: !Horizontal 3 # max number of rows
 - column: Tertiary
   configuration: Horizontal
